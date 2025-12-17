@@ -1,0 +1,5 @@
+{
+  "name": "VitalSync AI",
+  "description": "A personalized RAG-based health and wellness assistant that uses your personal health data to provide tailored advice and insights.",
+  "requestFramePermissions": []
+}
